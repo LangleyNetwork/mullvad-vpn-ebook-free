@@ -8,7 +8,7 @@ This repository hosts the **Free Limited Edition** of *Mullvad VPN — A Practic
 
 1. **Why Mullvad VPN** — mission, ownership, history
 2. **The threat model** — what VPNs can and cannot protect
-3. **Multihop with SOCKS5 Master** *(the showcase chapter)* — SOCKS5 multihop architecture, hands-on Firefox/Chrome walkthrough, security caveats
+3. **Multihop with SOCKS5 Mastered?** *(the showcase chapter)* — SOCKS5 multihop architecture, hands-on Firefox/Chrome walkthrough, security caveats
 4. **Glossary** — every VPN + Mullvad-specific term you'll encounter
 5. **FAQ** — the 20 most common questions, sourced from Mullvad's official help center
 
@@ -18,7 +18,7 @@ The Free Limited Edition is released under **CC BY-NC-SA 4.0**. You may read, sh
 
 ## What's inside
 
-### Sample: The showcase chapter (Multihop with SOCKS5 Master)
+### Sample: The showcase chapter (Multihop with SOCKS5 Mastered)
 
 This is the centerpiece of the book — the architecture that lets your browser exit through a different country than the WireGuard tunnel you connected through. The screenshot below shows the 90s-style tutorial walkthrough in action.
 
